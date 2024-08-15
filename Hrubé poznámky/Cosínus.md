@@ -1,3 +1,7 @@
+Tagy: #matematika #funkcie
+#### 2024-08-15 - 14:08
+# Cosínus
+
 ```functionplot
 ---
 title: y = cos(x)
@@ -11,3 +15,7 @@ f(x)=cos(x)
 | -------------- | ---- | -------------------- | -------------------- | --- |
 | $sin (\theta)$ | 0    | $\frac{1}{2}$        | $\frac{\sqrt{2}}{2}$ |     |
 | $cos (\theta)$ | 1    | $\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{2}}{2}$ |     |
+
+
+# Referencie
+[[Sínus]]
