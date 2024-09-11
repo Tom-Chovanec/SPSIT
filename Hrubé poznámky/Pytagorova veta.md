@@ -15,3 +15,4 @@ Obsah štvorca zostrojeného nad <abbr title="Najdlhšia strana trojuholníka">p
 
 
 # Referencie
+[[Matematika]]

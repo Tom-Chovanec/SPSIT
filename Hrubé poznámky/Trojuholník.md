@@ -24,29 +24,44 @@
 	- Veľkosť vonkajšieho uhla sa rovná súčtu veľkostí ostatných vnútorných uhlov
 
 ![[triangle.png|300]]
-- Prvky trojuholníka:
-	- výška $v$ 
-		- Kolmica z vrcholu na protiľahľú stranu
-	- ortocentrum $O$ 
-		- Priesečník výšok
-		![[triangle-orthocenter.png|300]]
-	- ťažnica $t$
-		- Spája vrchol so stredom protiľahľej strany
-	- ťažisko $T$ 
-		- Priesečník ťažísk, delí ťažnicu v pomere $2:1$
-		![[triangle-centroid.png]]
-	- stredná priečka 
-		- Úsečka spájajúca stredy strán
-		- Pôvodný trojuholník rozdeli na 4 zhodné trojuholníky
-		- Polovica rovnobežnej strany
-		![[triangle-midsegment.png]]
-		- kružnica opísaná v trojuholníku
-		- Jej stred je priesečńik osí strán
-		![[triangle-circumcenter.png]]
-	- kružnica vpísaná v trojuholníku
-		- Jej stred je priesečník osí uhlov
-		![[triangle-incircle.png]]
+### Prvky
+- výška $v$ 
+	- Kolmica z vrcholu na protiľahľú stranu
+- ortocentrum $O$ 
+	- Priesečník výšok
+	![[triangle-orthocenter.png|300]]
+- ťažnica $t$
+	- Spája vrchol so stredom protiľahľej strany
+- ťažisko $T$ 
+	- Priesečník ťažísk, delí ťažnicu v pomere $2:1$
+	![[triangle-centroid.png]]
+- stredná priečka 
+	- Úsečka spájajúca stredy strán
+	- Pôvodný trojuholník rozdeli na 4 zhodné trojuholníky
+	- Polovica rovnobežnej strany
+	![[triangle-midsegment.png]]
+	- kružnica opísaná v trojuholníku
+	- Jej stred je priesečńik osí strán
+	![[triangle-circumcenter.png]]
+- kružnica vpísaná v trojuholníku
+	- Jej stred je priesečník osí uhlov
+	![[triangle-incircle.png]]
 	
 
-
+### Zhodné zobrazenie
+- V rovine je každé zobrazenie, ktoré má tú vlastnosť, že pre ľubovoľné body $A, B$ tejto roviny a ich obrazy $A', B'$ platí  $|AB| = |A'B'|$
+- Medzi zhodnosť platí:
+	- Identita
+	- Stredná súmernosť
+	- Osová súmernosť
+	- Posunutie
+	- Otočenie
+- Vety o zhodnosti trojuholníka:
+	- [[Veta SSS|SSS]]
+	- [[Veta SUS|SUS]]
+	- [[Veta USU|USU]]
+	- [[Veta SSU|SSU]]
 # Referencie
+[[Matematika]]
+[[Trigonometria]]
+[[Pytagorova veta]]

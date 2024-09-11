@@ -18,3 +18,4 @@ f(x)=sin(x) * 2
 | $cos (\theta)$ | 1    | $\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{2}}{2}$ |
 # Referencie
 [[Cosínus]]
+[[Matematika]]
