@@ -3,7 +3,7 @@
 
 # Veľká epická próza
 
-Patria tu [[Román]] a románové cykly
+Patria tu [[Román|Romány]] a románové cykly
 
 
 

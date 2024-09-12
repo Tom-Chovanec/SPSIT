@@ -125,4 +125,9 @@ A family is a group of people who live together and share their experiences with
 
 # Referencie
 
+<<<<<<< HEAD:Hrubé poznámky/ANJ/Family.md
 [[Sports]]
+=======
+# Referencie
+[[Angličtina]]
+>>>>>>> 263e281c720e592c549f6691706824d9f9ec4c5e:Hotové poznámky/ANJ/Family.md

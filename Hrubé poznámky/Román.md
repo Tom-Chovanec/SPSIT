@@ -26,3 +26,4 @@ Môže byť:
 
 
 # Referencie
+[[Slovenčina]]

@@ -17,3 +17,4 @@ Rozdeľujeme ju:
 
 
 # Referencie
+[[Matematika]]
