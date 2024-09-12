@@ -16,6 +16,11 @@
 	- Deduktívny výklad
 	- Induktívny výklad
 
+- Druhy výkladových textov:
+	- [[Výklad]]
+	- [[Referát]]
+	- [[Recenzia]]
+
 - Vrámci výkladov sa využívajú kauzálne vzťahy - príčiny, následky
 - Časti výkladu
 	1. Vyslovenie hypotézy - tvrdenie, čo ideme dokázať
