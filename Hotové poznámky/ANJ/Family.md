@@ -59,15 +59,15 @@ A family is a group of people who live together and share their experiences with
 	- Go to school/get education
 
 
-### Generational gap
+### **Generational gap**
 - A collection of differences between different generations (e.g. parents and their children). These differences range from basic manners and language to politics and relationships.
-### Happy family:
+### **Happy family:**
 - No serious problems
 - Members of the family have good relationships amongst each other
 - Spends quality time together
 - Based on trust, love, commitment, work
 
-### Unhappy family:
+### **Unhappy family:**
 - Unemployment, lack of money
 - Addictions (alcohol, drugs, gambling)
 - Violence, abuse, harassment
@@ -76,19 +76,19 @@ A family is a group of people who live together and share their experiences with
 
 
 
-### Relationship between siblings
+### **Relationship between siblings**
 - Often complicated - sibling rivalry is common despite their love
 - Spend time together, play, share secrets, cover for each other
 - Can be jealous of each other
 
-### Duties:
+### **Duties:**
 - Divided differently in every family
 - Household chores should be divided equally between all family members to avoid arguments
 - Housework, taking the trash out, loading/unloading the dishwasher, yardwork...
 
 
 
-## Family appearance
+### **Family appearance**
 
 - **Hair** - Blonde, black, curly, straight, long, short, bald, dyed
 - **Face** - Thin, round, sharp
