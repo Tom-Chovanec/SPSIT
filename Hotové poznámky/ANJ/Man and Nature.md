@@ -10,8 +10,6 @@ Nature is the material world that surrounds us - plants, forests, mountains, lak
 
 ## Notes
 
-<br>
-
 - **Slovakia** - mild, continental climate; four seasons
 
 ### **Seasons**
